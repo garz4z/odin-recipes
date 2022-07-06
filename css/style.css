@@ -1,0 +1,16 @@
+body {
+    background-color: wheat;
+}
+h1 {
+    font-size: 40px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: normal;
+
+}
+button.recipe {
+    background-color: white;
+    color: crimson;
+    font-size: 20px;
+    padding: 4px;
+}
